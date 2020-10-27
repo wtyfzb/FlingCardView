@@ -1,10 +1,10 @@
 package com.wtyfzb.mylibrary
 
 import android.content.Context
+import android.support.v7.widget.CardView
 import android.util.AttributeSet
 import android.view.MotionEvent
 import android.view.View
-import androidx.cardview.widget.CardView
 import kotlin.math.abs
 
 
