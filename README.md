@@ -1,3 +1,3 @@
-# Scroll-Cardview
+# FlingCardView
 
-一个可以滑动取消的cardview。
+一个可以滑动取消的CardView。
